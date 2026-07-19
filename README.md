@@ -8,16 +8,23 @@ An interactive Power BI dashboard analyzing employee attrition across department
 
 ### 🏠 Page 1 – Executive Overview
 Total employees, attrition rate, average tenure, average income, attrition split, attrition by department, and attrition trend by hire year.
+<img width="1307" height="738" alt="1_ExecutiveOverview" src="https://github.com/user-attachments/assets/43716c1f-65bd-4282-b0c9-5084925495b6" />
+
 
 ![Executive Overview](Images/ExecutiveOverview.png)
 
 ### 👥 Page 2 – Demographics & Attrition
 Attrition rate by age group and tenure bucket, a department-vs-job-role matrix, and interactive filters (Gender, Marital Status, Department).
 
+<img width="1312" height="736" alt="2_Demographics" src="https://github.com/user-attachments/assets/8f7b94f4-f99f-491a-9c12-8be1c04c649a" />
+
+
 ![Demographics](Images/Demographics.png)
 
 ### 🤖 Page 3 – Correlation & Predictive Insights
 Attrition rate by overtime, job satisfaction, and work-life balance, a salary-vs-experience scatter plot, and the Power BI Key Influencers AI visual.
+
+<img width="1312" height="737" alt="3_PredictiveInsights" src="https://github.com/user-attachments/assets/1c027e05-0f78-4810-8763-0c10bb9682c1" />
 
 ![Predictive Insights](Images/PredictiveInsights.png)
 
